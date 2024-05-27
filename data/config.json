@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "logging_level": "INFO",
+  "mute_duration": 600,
+  "spam_threshold": 5,
+  "raid_threshold": 10,
+  "max_warnings_before_ban": 3
+}
