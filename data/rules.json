@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "automated_warning_messages": true,
+        "mute_commands": true,
+        "kick_options": true,
+        "ban_options": true,
+        "user_activity_tracking": true,
+        "spam_detection": true,
+        "content_moderation": true,
+        "custom_rules_setup": true,
+        "logging_system": true,
+        "anti_raid_system": true,
+        "constant_updates_and_improvements": true
+    }
+}
