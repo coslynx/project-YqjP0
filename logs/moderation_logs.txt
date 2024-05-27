@@ -1,0 +1,10 @@
+moderation_logs.txt
+This file will contain all the moderation actions taken by the Discord moderation bot. Each action will be logged with a timestamp, the user involved, the action taken, and any additional relevant information.
+
+# Sample moderation_logs.txt
+[timestamp] User 'username#discriminator' warned for 'reason'.
+[timestamp] User 'username#discriminator' muted for 'duration' minutes.
+[timestamp] User 'username#discriminator' kicked from the server.
+[timestamp] User 'username#discriminator' banned from the server.
+
+# End of moderation_logs.txt
